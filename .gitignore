@@ -1,0 +1,7 @@
+*.swp
+*.pyc
+__pycache__
+software/build
+software/src/bricklib2
+hardware/kicad-libraries
+.vscode
