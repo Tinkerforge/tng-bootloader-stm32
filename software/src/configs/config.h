@@ -26,9 +26,6 @@
 #define BOOTLOADER_VERSION_MINOR 0
 #define BOOTLOADER_VERSION_REVISION 0
 
-#define UARTBB_TX_PIN GPIO_PIN_13
-#define UARTBB_TX_PORTC
-
 #define TNG_BOOTLOADER
 
 #include "bricklib2/tng/config_stm32f0_128kb.h"
